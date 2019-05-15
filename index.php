@@ -88,10 +88,8 @@
           </table>
         </div>
         <div class="col-md-6 col-md-offset-3">
-          <h2>Application Example</h2>
-          <p>
-            <img src="http://datasuresolutions.com/home/images/partners/">
-          </p>
+          <h2>Application Deployment Example</h2>
+      
         </div>
       </div>
         </div><!-- /col -->
