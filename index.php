@@ -61,7 +61,7 @@
             <li><a href="#">Home</a></li>
             <li>Basic</li>
           </ol>
-          <h1>Welcome to ICDS OpenShift Container Platform!</h1>
+          <h1>Welcome to VMworld 2019 !</h1>
           <p>This is ICDS Offering OpenShift Container Platform flavour demo. We hope you enjoyed it!</p>
         </div>
       </div>
