@@ -44,12 +44,12 @@
       <div class="collapse navbar-collapse navbar-collapse-1">
         <ul class="nav navbar-nav navbar-utility">
           <li>
-            <a href="#">Status</a>
+            <a href="#">Logout</a>
           </li>
         </ul>
         <ul class="nav navbar-nav navbar-primary">
           <li class="active">
-            <a href="basic.html" class="active">Basic</a>
+            <a href="basic.html" class="active">IBM Cloud Deployment Services - OpenShift Container Platform</a>
           </li>
         </ul>
       </div>
@@ -67,7 +67,7 @@
       </div>
       <div class="row">
         <div class="col-md-6 col-md-offset-3">
-          <h2>Application Information</h2>
+          <h2>Deployed Application Information</h2>
           <table class="table table-striped table-bordered table-hover">
             <thead>
               <tr>
@@ -88,7 +88,7 @@
           </table>
         </div>
         <div class="col-md-6 col-md-offset-3">
-          <h2>Application Deployment Example</h2>
+          <h2>Application Deployment Example Demo</h2>
       
         </div>
       </div>
