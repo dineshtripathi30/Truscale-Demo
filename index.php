@@ -62,7 +62,7 @@
             <li>Basic</li>
           </ol>
           <h1><b> Welcome to China ICDS Enablement !</b></h1>
-          <p>This is ICDS Offering OpenShift Container Platform flavour demo. We hope you enjoyed it!</p>
+          <p>This is ICDS Offering OpenShift Container Platform flavour demo. We hope you enjoyed it in Shanghai</p>
         </div>
       </div>
       <div class="row">
