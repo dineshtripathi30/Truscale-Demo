@@ -4,7 +4,7 @@
 <html>
 <!--<![endif]-->
   <head>
-    <title>Welcome to VMworld US 2019</title>
+    <title>Welcome to the Modern Apps World!!</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="../dist/img/favicon.ico">
     <!-- iPad retina icon -->
@@ -38,7 +38,7 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="/">
-          <img src="../dist/img/brand.svg" alt="IBM Cloud Deployment Services Offering - OpenShift Container Orchestration Platform" />
+          <img src="../dist/img/brand.svg" alt="TruScale Container Platform as a Service with OpenShift Container Platform" />
         </a>
       </div>
       <div class="collapse navbar-collapse navbar-collapse-1">
@@ -49,7 +49,7 @@
         </ul>
         <ul class="nav navbar-nav navbar-primary">
           <li class="active">
-            <a href="basic.html" class="active">IBM Cloud Deployment Services - OpenShift Container Platform</a>
+            <a href="basic.html" class="active">TruScale - as a Service Offerings</a>
           </li>
         </ul>
       </div>
@@ -61,8 +61,8 @@
             <li><a href="#">Home</a></li>
             <li>Basic</li>
           </ol>
-          <h1><b> Welcome to China ICDS Enablement !</b></h1>
-          <p>This is ICDS Offering OpenShift Container Platform flavour demo. We hope you enjoyed it in Shanghai</p>
+          <h1><b> Welcome to TruScale OCP Demo !</b></h1>
+          <p>TruScale Offering with OpenShift Container Platform flavour demo. We hope you enjoyed</p>
         </div>
       </div>
       <div class="row">
