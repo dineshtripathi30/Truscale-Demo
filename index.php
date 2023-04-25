@@ -61,7 +61,7 @@
             <li><a href="#">Home</a></li>
             <li>Basic</li>
           </ol>
-          <h1><b> Welcome to TruScale OCP Demo !</b></h1>
+          <h1><b> Welcome to TruScale OCP Demo Update 1!</b></h1>
           <p>TruScale Offering with OpenShift Container Platform flavour demo. We hope you enjoyed</p>
         </div>
       </div>
